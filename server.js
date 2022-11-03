@@ -30,7 +30,7 @@ app.get('/', (req, res) => {
             <label>Course Goal</label>
             <input type="text" name="goal">
           </div>
-          <button>Set Course Goal</button>
+          <button>Set Manoj IKutti</button>
         </form>
       </body>
     </html>
